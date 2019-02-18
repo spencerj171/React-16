@@ -1,0 +1,21 @@
+.Nav {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #404040;
+  padding: 32px;
+  box-sizing: border-box;
+}
+
+.Nav a {
+  flex: 1;
+  margin: 16px;
+  box-sizing: inherit;
+  text-decoration: none;
+  color: #fcfcfc;
+}
+
+.Nav a:hover {
+  border-bottom: 2px solid rgb(24, 116, 254);
+  padding-bottom: 5px;
+}

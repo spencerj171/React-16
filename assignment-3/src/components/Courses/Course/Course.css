@@ -1,0 +1,14 @@
+.Course {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  background-color: white;
+  box-sizing: border-box;
+  padding: 16px;
+  margin: 16px;
+  color: #404040;
+}
+
+.Course:hover {
+  background-color: rgba(24, 116, 254, 0.2);
+}

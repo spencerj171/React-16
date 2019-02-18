@@ -1,0 +1,14 @@
+.entry {
+  color: #404040;
+  width: 60%;
+  border: 1px solid #404040;
+  padding: 24px;
+  margin: 0 auto 50px auto;
+  background: #fff;
+  box-shadow: 2px 3px #404040;
+  border-radius: 5px;
+}
+
+.entry p {
+  text-align: justify;
+}
